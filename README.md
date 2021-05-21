@@ -5,6 +5,7 @@ FunkinMulti-Modded is a modded version of [The Friday Night Funkin' Multiplayer 
 ## Maps
 
 Bopeebo -> Ballistic
+Fresh -> boxing-match
 
 ## Characters
 
